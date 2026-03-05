@@ -66,9 +66,11 @@ def auto_eval_by_gpt4v(process_dir, openai_client, api_model, img_num):
         print("Not find answer for " + process_dir)
         print()
         return 0
-    pattern_ans = r"ANSWER[; ]+\[?(.[^\]]*)\]?"
+    pattern_ans = r"ANSWER[; ]+([\s\S]+)"
     matches_ans = re.search(pattern_ans, ans_info)
     answer_content = matches_ans.group(1).strip()
+    if answer_content.startswith("[") and answer_content.endswith("]"):
+        answer_content = answer_content[1:-1]
 
     # max_screenshot_id = max([int(f[10:].split('.png')[0]) for f in os.listdir(process_dir) if '.png' in f])
     # final_screenshot = f'screenshot{max_screenshot_id}.png'
@@ -129,17 +131,10 @@ def auto_eval_by_gpt4v(process_dir, openai_client, api_model, img_num):
             else:
                 time.sleep(10)
     gpt_4v_res = openai_response.choices[0].message.content
-    print_message = messages[1]
-    for idx in range(len(print_message['content'])):
-        if print_message['content'][idx]['type'] == 'image_url':
-            print_message['content'][idx]['image_url'] = {"url": "data:image/png;base64, b64_img"}
 
-    # print_message[1]['content'][1]['image_url'] = {"url": "data:image/png;base64, b64_img"}
-    print(print_message)
-    print(gpt_4v_res)
-
-    auto_eval_res = 0 if 'NOT SUCCESS' in gpt_4v_res else 1
-    if 'SUCCESS' not in gpt_4v_res:
+    verdict_section = gpt_4v_res[gpt_4v_res.lower().rfind("verdict") :]
+    auto_eval_res = 0 if "NOT SUCCESS" in verdict_section else 1
+    if "SUCCESS" not in verdict_section:
         auto_eval_res = None
     print("Auto_eval_res:", auto_eval_res)
     print()
