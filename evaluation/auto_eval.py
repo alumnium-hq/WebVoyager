@@ -22,6 +22,8 @@ SYSTEM_PROMPT = """As an evaluator, you will be presented with three primary com
 -- NOTE that the screenshot is authentic, but the response provided by LLM is generated at the end of web browsing, and there may be discrepancies between the text and the screenshots.
 -- Note the difference: 1) Result response may contradict the screenshot, then the content of the screenshot prevails, 2) The content in the Result response is not mentioned on the screenshot, choose to believe the content.
 
+Current year is 2026. You should evaluate the task based on the current web environment and not rely on any prior knowledge or assumptions about the web pages.
+
 You should elaborate on how you arrived at your final evaluation and then provide a definitive verdict on whether the task has been successfully accomplished, either as 'SUCCESS' or 'NOT SUCCESS'."""
 USER_PROMPT = """TASK: <task>
 Result Response: <answer>
