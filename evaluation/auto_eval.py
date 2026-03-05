@@ -158,6 +158,12 @@ def auto_eval_by_gpt4v(process_dir, openai_client, api_model, img_num):
 
 def main():
     parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--task_dir",
+        type=str,
+        default=None,
+        help="Path to a single task directory to evaluate",
+    )
     parser.add_argument("--process_dir", type=str, default="results")
     parser.add_argument("--lesson_dir", type=str, default="results")
     parser.add_argument(
@@ -168,6 +174,12 @@ def main():
     )
     parser.add_argument("--max_attached_imgs", type=int, default=1)
     args = parser.parse_args()
+
+    if args.task_dir:
+        auto_eval_by_gpt4v(
+            args.task_dir, client, args.api_model, args.max_attached_imgs
+        )
+        return
 
     webs = [
         "Allrecipes",
