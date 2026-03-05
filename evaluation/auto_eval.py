@@ -33,7 +33,7 @@ def encode_image(image_path):
         return base64.b64encode(image_file.read()).decode("utf-8")
 
 
-def auto_eval_by_gpt4v(process_dir, openai_client, api_model, img_num):
+def auto_eval_by_gpt5(process_dir, openai_client, api_model, img_num):
     print(f"--------------------- {process_dir} ---------------------")
 
     eval_path = os.path.join(process_dir, "eval.json")
@@ -107,9 +107,13 @@ def auto_eval_by_gpt4v(process_dir, openai_client, api_model, img_num):
     ]
     while True:
         try:
-            print("Calling gpt4v API to get the auto evaluation......")
+            print("Calling gpt5 API to get the auto evaluation......")
             openai_response = openai_client.chat.completions.create(
-                model=api_model, messages=messages, max_tokens=1000, seed=42, temperature=0
+                model=api_model,
+                messages=messages,
+                max_tokens=1000,
+                seed=42,
+                temperature=0,
             )
             print(
                 "Prompt Tokens:",
@@ -170,13 +174,18 @@ def main():
         "--api_key", default="key", type=str, help="YOUR_OPENAI_API_KEY"
     )
     parser.add_argument(
-        "--api_model", default="gpt-4-vision-preview", type=str, help="api model name"
+        "--api_model", default="gpt-5-chat", type=str, help="api model name"
+    )
+    parser.add_argument(
+        "--api_base_url", default=None, type=str, help="Custom API base URL"
     )
     parser.add_argument("--max_attached_imgs", type=int, default=1)
     args = parser.parse_args()
 
+    client = OpenAI(api_key=args.api_key, base_url=args.api_base_url)
+
     if args.task_dir:
-        auto_eval_by_gpt4v(
+        auto_eval_by_gpt5(
             args.task_dir, client, args.api_model, args.max_attached_imgs
         )
         return
@@ -204,7 +213,7 @@ def main():
         for idx in range(0, 46):
             file_dir = os.path.join(args.process_dir, "task" + web + "--" + str(idx))
             if os.path.exists(file_dir):
-                response = auto_eval_by_gpt4v(
+                response = auto_eval_by_gpt5(
                     file_dir, client, args.api_model, args.max_attached_imgs
                 )
                 web_task_res.append(response)
