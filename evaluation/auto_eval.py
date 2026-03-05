@@ -35,6 +35,15 @@ def encode_image(image_path):
 
 def auto_eval_by_gpt4v(process_dir, openai_client, api_model, img_num):
     print(f"--------------------- {process_dir} ---------------------")
+
+    eval_path = os.path.join(process_dir, "eval.json")
+    if os.path.exists(eval_path):
+        with open(eval_path) as f:
+            cached = json.load(f)
+        print(f"Using cached eval: result={cached['result']}")
+        print()
+        return cached["result"]
+
     res_files = sorted(os.listdir(process_dir))
     with open(os.path.join(process_dir, "interact_messages.json")) as fr:
         it_messages = json.load(fr)
@@ -134,6 +143,21 @@ def auto_eval_by_gpt4v(process_dir, openai_client, api_model, img_num):
         auto_eval_res = None
     print("Auto_eval_res:", auto_eval_res)
     print()
+
+    with open(eval_path, "w") as f:
+        json.dump(
+            {
+                "task": task_content,
+                "answer": answer_content,
+                "response": gpt_4v_res,
+                "result": auto_eval_res,
+                "prompt_tokens": openai_response.usage.prompt_tokens,
+                "completion_tokens": openai_response.usage.completion_tokens,
+            },
+            f,
+            indent=2,
+        )
+
     return auto_eval_res
 
 
