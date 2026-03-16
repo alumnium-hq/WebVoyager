@@ -86,7 +86,6 @@
 {"web_name": "Apple", "id": "Apple--4", "ques": "How much does it cost to buy a Macbook pro, 16-inch, Apple M3 Max chip with 16-core CPU, 40-core GPU, 64GB unified memory, 1TB SSD.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--5", "ques": "Check the release date and price for the latest version of the iPhone.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--6", "ques": "Find AirPods on Apple and how many types are currently available.", "web": "https://www.apple.com/"}
-{"web_name": "Apple", "id": "Apple--7", "ques": "When and where the Apple Vision Pro will be released.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--8", "ques": "Identify and list the specifications of the latest iPad model released by Apple, including its storage options, processor type, and display features.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--9", "ques": "Check the Apple Store for the availability of the latest iPhone model and schedule an in-store pickup at the nearest Apple Store for January 10, 2024.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--10", "ques": "Find information on the latest (as of today's date) MacBook model, including its key features such as processor type, memory size, and storage capacity.", "web": "https://www.apple.com/"}
@@ -121,7 +120,6 @@
 {"web_name": "Apple", "id": "Apple--39", "ques": "Find solutions on Apple's website if you forgot your Apple ID password.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--40", "ques": "Find information on Apple website, and tell me the device weight of Apple Vision Pro and list 5 Built-in Apps it supports.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--41", "ques": "How much does it cost to buy an ipad mini with 64GB storage and Wi-Fi + Cellular connectivity? (no engraving, no apple pencil, no smart folio, no apple trade-in).", "web": "https://www.apple.com/"}
-{"web_name": "Apple", "id": "Apple--42", "ques": "Find updates for Apple Watch Series 7,8,9 on Apple's website.", "web": "https://www.apple.com/"}
 {"web_name": "ArXiv", "id": "ArXiv--0", "ques": "Search for the latest preprints about 'quantum computing'.", "web": "https://arxiv.org/"}
 {"web_name": "ArXiv", "id": "ArXiv--1", "ques": "Search for the latest research papers on quantum computing submitted to ArXiv within the last two days.", "web": "https://arxiv.org/"}
 {"web_name": "ArXiv", "id": "ArXiv--2", "ques": "Look up the most recent papers related to 'cs.CL', select one and show its abstract.", "web": "https://arxiv.org/"}
