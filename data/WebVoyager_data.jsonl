@@ -181,7 +181,6 @@
 {"web_name": "BBC News", "id": "BBC News--15", "ques": "What does the current headline in Natural Wonders tell about.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--16", "ques": "Identify the most recent development or update in Brexit negotiations as reported on BBC News and report the key points and any stated impacts on European economies.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--17", "ques": "How many War related sections are currently in BBC News.", "web": "https://www.bbc.com/news/"}
-{"web_name": "BBC News", "id": "BBC News--18", "ques": "Visit BBC News Audio, What are the best PodCasts for 2023? List 2 of them.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--19", "ques": "Visit the Athletics calendar for the date of the next earliest game.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--20", "ques": "Find the latest article in the Green Living section on BBC News and provide a summary of its main points.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--21", "ques": "Identify the top headline in the World News section on BBC News and describe the region it is related to.", "web": "https://www.bbc.com/news/"}
@@ -192,7 +191,6 @@
 {"web_name": "BBC News", "id": "BBC News--26", "ques": "Locate the latest report on BBC News about the impact of recent natural disasters in Asia and summarize the key points and areas affected.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--27", "ques": "Find the most recent article on BBC News about archaeological discoveries and summarize the main findings and their significance.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--28", "ques": "Find the Market Data section on BBC News and tell me which company the data comes from.", "web": "https://www.bbc.com/news/"}
-{"web_name": "BBC News", "id": "BBC News--29", "ques": "Visit BBC News Audio and find out which podcast episode is currently featured as the \"New Releases\".", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--30", "ques": "In the Culture section, identify the latest film release reviewed and provide a brief summary of the review.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--31", "ques": "Check the Sports section for the result of the most recent Manchester United football match.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--32", "ques": "Find the artificial intelligence section, what is the top headline at this time, and which companies are involved?", "web": "https://www.bbc.com/news/"}
@@ -200,7 +198,6 @@
 {"web_name": "BBC News", "id": "BBC News--34", "ques": "Find The SpeciaList section in Travel and browse the page to see which cities are mentioned.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--35", "ques": "In the Asia section, browse and identify the most recent report about technological advancements and summarize its content.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--36", "ques": "Look up recent articles in the Africa news section in World, summarize what topics most of these news are about", "web": "https://www.bbc.com/news/"}
-{"web_name": "BBC News", "id": "BBC News--37", "ques": "Identify the latest book review featured in the Culture section and provide the title and author of the book.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--38", "ques": "Find news related to the storm in Weather section and indicate where and when the severe weather occurred.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--39", "ques": "Check the Horse Racing results in Sport section, browse all the games that took place yesterday and see which one had the highest number of runners.", "web": "https://www.bbc.com/news/"}
 {"web_name": "BBC News", "id": "BBC News--40", "ques": "Read and summarise a recent story on BBC News about people being injured or killed in wars.", "web": "https://www.bbc.com/news/"}
