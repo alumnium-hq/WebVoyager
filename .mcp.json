@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "alumnium": {
+      "type": "stdio",
+      "trust": true,
+      "command": "make",
+      "args": ["-C", "../..", "start-mcp"]
+    }
+  }
+}

@@ -1,5 +1,6 @@
 *.log
 downloads/*.pdf
 results/2024*
+results/claude-code*
 test_code.py
 __pycache__
