@@ -339,9 +339,9 @@
 {"web_name": "ESPN", "id": "ESPN--12", "ques": "The first three Top Headlines in the current ESPN home page correspond to which sports leagues?", "web": "https://www.espn.com/"}
 {"web_name": "ESPN", "id": "ESPN--13", "ques": "Identify today's top headline in the Basketball section of ESPN, and summarize the main points of that article.", "web": "https://www.espn.com/"}
 {"web_name": "ESPN", "id": "ESPN--14", "ques": "Find the latest news about NBA trades or player movements on ESPN and report the most recent trade deal OR player acquisition.", "web": "https://www.espn.com/"}
-{"web_name": "ESPN", "id": "ESPN--15", "ques": "Check the scores of the NBA games played on December 25, 2023.", "web": "https://www.espn.com/"}
-{"web_name": "ESPN", "id": "ESPN--16", "ques": "Check the schedule for the NBA game on December 25, 2023, and provide the teams that are playing and their current standings in their respective conferences.", "web": "https://www.espn.com/"}
-{"web_name": "ESPN", "id": "ESPN--17", "ques": "Check out the NBA Basketball Power Index 2023-24 to see which teams are in first place and which are in last place.", "web": "https://www.espn.com/"}
+{"web_name": "ESPN", "id": "ESPN--15", "ques": "Check the scores of the NBA games played on February 25, 2026.", "web": "https://www.espn.com/"}
+{"web_name": "ESPN", "id": "ESPN--16", "ques": "Check the schedule for the NBA game on February 25, 2026, and provide the teams that are playing and their current standings in their respective conferences.", "web": "https://www.espn.com/"}
+{"web_name": "ESPN", "id": "ESPN--17", "ques": "Check out the NBA Basketball Power Index 2025-26 to see which teams are in first place and which are in last place.", "web": "https://www.espn.com/"}
 {"web_name": "ESPN", "id": "ESPN--18", "ques": "How many sports leagues can you choose from on the ESPN home page?", "web": "https://www.espn.com/"}
 {"web_name": "ESPN", "id": "ESPN--19", "ques": "Who has the highest salary in Boston Celtics Roster 2023-24?", "web": "https://www.espn.com/"}
 {"web_name": "ESPN", "id": "ESPN--20", "ques": "Look up the current leaders in rebounds and assists in the NBA Western Conference on ESPN.", "web": "https://www.espn.com/"}
@@ -354,10 +354,10 @@
 {"web_name": "ESPN", "id": "ESPN--27", "ques": "Search on ESPN for how many teams have 'Golden' in their name and how many of them are in the NHL.", "web": "https://www.espn.com/"}
 {"web_name": "ESPN", "id": "ESPN--28", "ques": "How many MLB teams are there and list all the teams with 'City' in their name.", "web": "https://www.espn.com/"}
 {"web_name": "ESPN", "id": "ESPN--29", "ques": "Identify today's top headline in the Soccer section of ESPN, and summarize the main points of that article.", "web": "https://www.espn.com/"}
-{"web_name": "ESPN", "id": "ESPN--30", "ques": "Check out the NHL Standings 2023-24 on ESPN to see which teams are at the top and which are at the bottom in Eastern and Western Conference. What about the situation in Division.", "web": "https://www.espn.com/"}
-{"web_name": "ESPN", "id": "ESPN--31", "ques": "Who has the heaviest weight among infielders in the New York Yankees Roster 2023-24?", "web": "https://www.espn.com/"}
+{"web_name": "ESPN", "id": "ESPN--30", "ques": "Check out the NHL Standings 2025-26 on ESPN to see which teams are at the top and which are at the bottom in Eastern and Western Conference. What about the situation in Division.", "web": "https://www.espn.com/"}
+{"web_name": "ESPN", "id": "ESPN--31", "ques": "Who has the heaviest weight among infielders in the New York Yankees Roster 2026?", "web": "https://www.espn.com/"}
 {"web_name": "ESPN", "id": "ESPN--32", "ques": "Review yesterday's NHL game results on ESPN, focusing on teams' performance.", "web": "https://www.espn.com/"}
-{"web_name": "ESPN", "id": "ESPN--33", "ques": "Locate the latest ESPN articles discussing potential MVP candidates in the NFL for 2023 season.", "web": "https://www.espn.com/"}
+{"web_name": "ESPN", "id": "ESPN--33", "ques": "Locate the latest ESPN articles discussing potential MVP candidates in the NFL for 2025 season.", "web": "https://www.espn.com/"}
 {"web_name": "ESPN", "id": "ESPN--34", "ques": "Visit ESPN to view the Philadelphia 76ers' latest injuries.", "web": "https://www.espn.com/"}
 {"web_name": "ESPN", "id": "ESPN--35", "ques": "Browse ESPN to find out when the next game of the Los Angeles Lakers will start. Then navigate to the ticket purchasing website from ESPN, what is the cheapest ticket available.", "web": "https://www.espn.com/"}
 {"web_name": "ESPN", "id": "ESPN--36", "ques": "Search for Lionel Messi's last 5 games, which teams has he played for, and what are the results?", "web": "https://www.espn.com/"}
