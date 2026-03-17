@@ -592,7 +592,7 @@
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--18", "ques": "Plot Albert Einstein curve with Parametric equations.", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--19", "ques": "Standing in the sun from 11:00 am with SPF 5 in Australia. Approximate time to sunburn for each skin type.", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--20", "ques": "Compute the integral of 3e^(2x) from x=0 to x=5.", "web": "https://www.wolframalpha.com/"}
-{"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--21", "ques": "Calculate (1+0.1*i)^8 + (1\u22120.2*i)^8  where i is a complex number.", "web": "https://www.wolframalpha.com/"}
+{"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--21", "ques": "Calculate (1+0.1*i)^8 + (1−0.2*i)^8  where i is a complex number.", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--22", "ques": "Determine the area of a regular hexagon with a side length of 7 cm.", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--23", "ques": "Calculate the population growth rate of Canada from 2020 to 2023 using Wolfram Alpha.", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--24", "ques": "Solve the differential equation y''(t) - 2y'(t) + 10y(t) = 0 and display its general solution.", "web": "https://www.wolframalpha.com/"}
@@ -604,10 +604,10 @@
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--30", "ques": "Calculate the estimated time to sunburn for different skin types when exposed to the sun at 1:00 pm with SPF 1 in Brazil.", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--31", "ques": "Using Wolfram Alpha, determine the current temperature and wind speed in Chicago, IL.", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--32", "ques": "Print all prime numbers between 1000 and 1200 using Wolfram alpha.", "web": "https://www.wolframalpha.com/"}
-{"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--33", "ques": "Identify the electrical energy output of a hydroelectric power plant named Itaipu Dam in 2023 using Wolfram Alpha.", "web": "https://www.wolframalpha.com/"}
+{"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--33", "ques": "Identify the electrical energy output of a hydroelectric power plant named Itaipu Dam in 2024 using Wolfram Alpha.", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--34", "ques": "Calculate the mass of Jupiter compared to Earth using Wolfram Alpha. Also, find the length of one day on Jupiter.", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--35", "ques": "Calculate the determinant of a 6x6 Hilbert matrix.", "web": "https://www.wolframalpha.com/"}
-{"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--36", "ques": "Determine the convergence or divergence of the series \u03a3 (n=1 to \u221e) of 1/(n^3 + 1).", "web": "https://www.wolframalpha.com/"}
+{"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--36", "ques": "Determine the convergence or divergence of the series Σ (n=1 to ∞) of 1/(n^3 + 1).", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--37", "ques": "How many days are there between February 12, 2024 and August 9, 2050?", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--38", "ques": "Compute the length of a curve defined by y = 2x^3 - 3x^2 + 4x - 5 from x = 0 to x = 3.", "web": "https://www.wolframalpha.com/"}
 {"web_name": "Wolfram Alpha", "id": "Wolfram Alpha--39", "ques": "Use Wolfram alpha to write the expression of the ellipse x^2 + 3 y^2 = 4 rotated 33 degrees counterclockwise.", "web": "https://www.wolframalpha.com/"}
