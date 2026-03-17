@@ -462,7 +462,6 @@
 {"web_name": "Google Map", "id": "Google Map--10", "ques": "Search for a park in the state of California called Castle Mountains National Monument and find out it's Basic Information.", "web": "https://www.google.com/maps/"}
 {"web_name": "Google Map", "id": "Google Map--11", "ques": "Locate a large store in Washington that has kids' and maternity products, also check if it has a parking lot.", "web": "https://www.google.com/maps/"}
 {"web_name": "Google Map", "id": "Google Map--12", "ques": "Find 5 places that serve burgers near 44012 zip code and sort these 5 places by highest rating.", "web": "https://www.google.com/maps/"}
-{"web_name": "Google Map", "id": "Google Map--13", "ques": "Find a parking lot in Gloucester and book a ride from there to North Plymouth, view the map to understand the route better.", "web": "https://www.google.com/maps/"}
 {"web_name": "Google Map", "id": "Google Map--14", "ques": "Find motorcycle parking near Radio City Music Hall.", "web": "https://www.google.com/maps/"}
 {"web_name": "Google Map", "id": "Google Map--15", "ques": "Find daytime only parking nearest to Madison Square Garden. Summarize what people are saying about it. ", "web": "https://www.google.com/maps/"}
 {"web_name": "Google Map", "id": "Google Map--16", "ques": "Find EV charging supported parking closest to Smithsonian museum.", "web": "https://www.google.com/maps/"}
