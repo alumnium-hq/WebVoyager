@@ -83,7 +83,7 @@
 {"web_name": "Apple", "id": "Apple--1", "ques": "Research the new features of the iOS 17 on Apple support and check its compatibility with the iPhone 12.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--2", "ques": "Compare the prices and chips for the iPhone 14 Pro and iPhone 15 Pro models directly from Apple's website.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--3", "ques": "Find the latest model of the iPhone and compare the price and screen size between the pro and pro max.", "web": "https://www.apple.com/"}
-{"web_name": "Apple", "id": "Apple--4", "ques": "How much does it cost to buy a Macbook pro, 16-inch, Apple M3 Max chip with 16-core CPU, 40-core GPU, 64GB unified memory, 1TB SSD.", "web": "https://www.apple.com/"}
+{"web_name": "Apple", "id": "Apple--4", "ques": "How much does it cost to buy a Macbook pro, 16-inch, Apple M4 Max chip with 16-core CPU, 40-core GPU, 64GB unified memory, 1TB SSD.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--5", "ques": "Check the release date and price for the latest version of the iPhone.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--6", "ques": "Find AirPods on Apple and how many types are currently available.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--8", "ques": "Identify and list the specifications of the latest iPad model released by Apple, including its storage options, processor type, and display features.", "web": "https://www.apple.com/"}
@@ -98,9 +98,9 @@
 {"web_name": "Apple", "id": "Apple--17", "ques": "Search Apple for the accessory Smart Folio for iPad and check the closest pickup availability next to zip code 90038.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--18", "ques": "Check if there are trade-in offers for the latest model of iPhone.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--19", "ques": "On Apple's website, what is the slogan for the Mac and what is the slogan for the Macbook pro.", "web": "https://www.apple.com/"}
-{"web_name": "Apple", "id": "Apple--20", "ques": "Check the price for an Apple iPhone 14 Plus with 256GB storage in Purple color.", "web": "https://www.apple.com/"}
+{"web_name": "Apple", "id": "Apple--20", "ques": "Check the price for an Apple iPhone 17 with 256GB storage in Purple color.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--21", "ques": "Identify the available storage options for the latest iPad Pro on the Apple website.", "web": "https://www.apple.com/"}
-{"web_name": "Apple", "id": "Apple--22", "ques": "Find out the trade-in value for an iPhone 13 Pro Max in good condition on the Apple website.", "web": "https://www.apple.com/"}
+{"web_name": "Apple", "id": "Apple--22", "ques": "Find out the trade-in value for an iPhone 15 Pro Max in good condition on the Apple website.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--23", "ques": "Determine the price difference between the latest series of Apple Watch and Apple Watch SE on the Apple website.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--24", "ques": "Find out the starting price for the most recent model of the iMac on the Apple website.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--25", "ques": "On the Apple website, look up the processor for the latest model of the Apple TV.", "web": "https://www.apple.com/"}
@@ -110,7 +110,7 @@
 {"web_name": "Apple", "id": "Apple--29", "ques": "On Apple's website, check the estimated battery life of the latest MacBook Air during web browsing in Tech Specs.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--30", "ques": "Check the storage options and prices for the latest iPad Pro models on Apple's website.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--31", "ques": "On Apple's website, what is the slogan for the latest Apple Watch Series.", "web": "https://www.apple.com/"}
-{"web_name": "Apple", "id": "Apple--32", "ques": "Investigate the trade-in value for an iPhone 11 Pro Max on Apple's website.", "web": "https://www.apple.com/"}
+{"web_name": "Apple", "id": "Apple--32", "ques": "Investigate the trade-in value for an iPhone 13 Pro Max on Apple's website.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--33", "ques": "Look for the color options available for the newest iMac.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--34", "ques": "Identify the size and weight for the Apple TV 4K and list the Siri Remote features introduced.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--35", "ques": "How many types of Apple Pencil are currently available on the Apple's website? Which one supports Wireless pairing and charging.", "web": "https://www.apple.com/"}
@@ -119,7 +119,7 @@
 {"web_name": "Apple", "id": "Apple--38", "ques": "Explore accessories for Apple Vision Pro, list at least three accessories.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--39", "ques": "Find solutions on Apple's website if you forgot your Apple ID password.", "web": "https://www.apple.com/"}
 {"web_name": "Apple", "id": "Apple--40", "ques": "Find information on Apple website, and tell me the device weight of Apple Vision Pro and list 5 Built-in Apps it supports.", "web": "https://www.apple.com/"}
-{"web_name": "Apple", "id": "Apple--41", "ques": "How much does it cost to buy an ipad mini with 64GB storage and Wi-Fi + Cellular connectivity? (no engraving, no apple pencil, no smart folio, no apple trade-in).", "web": "https://www.apple.com/"}
+{"web_name": "Apple", "id": "Apple--41", "ques": "How much does it cost to buy an ipad mini with 128GB storage and Wi-Fi + Cellular connectivity? (no engraving, no apple pencil, no smart folio, no apple trade-in).", "web": "https://www.apple.com/"}
 {"web_name": "ArXiv", "id": "ArXiv--0", "ques": "Search for the latest preprints about 'quantum computing'.", "web": "https://arxiv.org/"}
 {"web_name": "ArXiv", "id": "ArXiv--1", "ques": "Search for the latest research papers on quantum computing submitted to ArXiv within the last two days.", "web": "https://arxiv.org/"}
 {"web_name": "ArXiv", "id": "ArXiv--2", "ques": "Look up the most recent papers related to 'cs.CL', select one and show its abstract.", "web": "https://arxiv.org/"}
