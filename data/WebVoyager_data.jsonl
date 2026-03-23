@@ -511,7 +511,6 @@
 {"web_name": "Google Search", "id": "Google Search--19", "ques": "What are the first 7 bits of the SHA of the Bert's latest commit on GitHub, and what exactly was changed in that commit.", "web": "https://www.google.com/"}
 {"web_name": "Google Search", "id": "Google Search--20", "ques": "Find the release date for the latest \"Fast & Furious\" movie.", "web": "https://www.google.com/"}
 {"web_name": "Google Search", "id": "Google Search--21", "ques": "Show a list of the top 5 highest-grossing animated movies, sorted by box office earnings.", "web": "https://www.google.com/"}
-{"web_name": "Google Search", "id": "Google Search--22", "ques": "Browse and list the top three trending topics this month in New York City.", "web": "https://www.google.com/"}
 {"web_name": "Google Search", "id": "Google Search--23", "ques": "Retrieve a short biography of LeBron James.", "web": "https://www.google.com/"}
 {"web_name": "Google Search", "id": "Google Search--24", "ques": "What is the name of the star system closest to the Solar System, and what are the discovered planets in it?", "web": "https://www.google.com/"}
 {"web_name": "Google Search", "id": "Google Search--25", "ques": "Get the latest news headline about the English Premier League football club Manchester United.", "web": "https://www.google.com/"}
